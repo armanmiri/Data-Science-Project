@@ -20,7 +20,7 @@ Machine Learning Model: A Decision Tree Classifier was implemented to classify a
 Questions Explored:
 The project also delves into critical questions related to the model's performance, data splitting strategies, and the general applicability of decision trees for various classification tasks.
 
-Feel free to modify or expand upon this description as per your requirements!
+Includes the file for the raw data given as well for the project.
 
 
 
