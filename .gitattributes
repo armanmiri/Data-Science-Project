@@ -1,4 +1,2 @@
-.Jupyter Notebook linguist-detectable=false
-*.python linguist-detectable=true
-
+*.Jupyter Notebook linguist-detectable=false
 *.python linguist-detectable=true
